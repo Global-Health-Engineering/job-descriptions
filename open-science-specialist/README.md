@@ -149,8 +149,6 @@ We welcome applicants with:
 
 -   Task 6.1: Assist with and independently develop funding proposals.
 
-## Area 6: Proposals
-
 [^1]: A large part of the project background description has been reused
     and adapted from Leek (2016). The original work is licensed under a
     [CC-BY-3.0 license](https://creativecommons.org/licenses/by/3.0/).
