@@ -140,9 +140,9 @@ We welcome applicants with:
 
 ## Area 5: Teaching
 
--   Task 5.1: Develop courses for students and faculty related to: -
-    Computational Research Software (R, RStudio) - Version control and
-    collaboration with Git and GitHub - Data Management in
+-   Task 5.1: Develop courses for students and faculty related to: (1)
+    Computational Research Software (R, RStudio); (2) Version control and
+    collaboration with Git and GitHub; (3) Data Management in
     Spreadsheets - Research Data Management
 
 ## Area 6: Proposals
