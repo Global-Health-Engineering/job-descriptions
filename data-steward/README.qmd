@@ -1,0 +1,76 @@
+# Data Steward
+
+## Key objectives, short description of the main activities and responsibilities
+
+The main objective of this position is to lead the strategic process of establishing data stewardship within ETH and at other institutions based on lessons learned from our group’s work. The role requires a high degree of leadership and management, excellent negotiation and communication skills, solid interdisciplinary coordination skills, and the ability to lead demanding projects, meetings and professional conferences. This role fosters international relationships and requires an individual with significant experience working in a global context under unpredictable circumstances. Tasks are largely strategic, of national relevance and require a high degree of autonomy and self-motivation.
+
+## Key features
+
+Give specific details of the terms listed in bold and how they are weighted in relation to the job and the tasks.
+
+autonomy: 8/10 (requires a high degree of self-motivation and independence)
+level of responsibility: 10/10 (this is a leadership role, managing 5 projects and > 10 people)
+visibility: 10/10 (this is a high-profile role, with significant national and international visibility)
+scope: 9/10 (involves several disciplines and a wide range of research activities)
+complexity: 10/10 (requires an understanding of complex environments that require cultural change)
+decision-making authority: 9/10 (prepares precise decision protocols for chair to sign off efficiently)
+management responsibility: 10/10 (IT manager within team, manages projects and people)
+
+## Main tasks
+
+Describe the tasks and any leadership responsibilities. Specify the relationship of the position to other functions or areas (interfaces, dependencies, etc.) and how the competences are regulated. 
+
+### Area 1: Advisory and leadership role at the interface for Open Research Data programmes of national relevance
+
+- Support ETH Stab Open Science team in documenting and evaluating the ETH Board Open Research Data programme, which funded ~100 projects with a total budget of CHF 10M.
+- Support ETH Library in continuation of establishing an ETH-wide Data Stewardship network through the swissuniversities Open Science II programme.
+- Provide strategic advice to GHE Chair involved in working groups related to the swissuniversities Open Science programme, which is of national relevance.
+- Act as the local ETH Node for the Swiss Reproducibility Network.
+- Ensure that networks, programmes and communities addressing data stewardship and related services are aligned.
+
+### Area 2: Project Management
+
+- Successful completion and management of current and future projects the GHE group is awarded under the ETH Board Open Research Data programme and other new related programmes targeting ORD and professionalization of ORD-Specialists / Data Stewards.
+- Handle all communication streams and reporting obligations for these projects.
+
+### Area 3: Research Communication
+
+- Manage dozens of websites, blogs, analytics platforms and social media accounts for the GHE group.
+- Develop a strategy to document experiences of the GHE group for establishing similar data stewardship programs within ETH and at other higher education institutions.
+- Publish five scientific articles by 2027 that document the experiences of the GHE group in establishing data stewardship at higher education institutions.
+
+### Area 4: Teaching
+
+- Develop courses for students and faculty related to: Computational Research Software (R, RStudio), Version control and collaboration with Git and GitHub, Data Management in Spreadsheets, Research Data Management.
+- Support ETH Library in teaching yearly Research Data Management summer school to PhD students at ETH Domain.
+- Teach courses to the international openwashdata community to offer advanced data science training and workshops to community members.
+- Continue to support Educational Development at D-MAVT and other interested groups at ETH Zurich, based on experiences of seminars and workshops around the work of Greg Wilson on “Teaching Tech Together”.
+
+### Area 5: GHE Group Leadership responsibilities
+
+- Support the GHE Chair in managing the group, including developing hiring strategy and performance reviews.
+- Manage the Rflect framework for the GHE Chair to foster inner development goals for group members, a growth mindset to enhance learning outcomes, and a culture of psychological safety which addresses and solves conflicts.
+- Manage IT and project management tools of the group to increase efficiency in processes.
+- Provide efficient onboarding and offboarding procedures for new and leaving members.
+- Organize and host weekly, monthly, and yearly team building events that enrich the culture of the group and foster a sense of belonging.
+
+### Area 6: Grant writing
+
+- Identify grants for continuation of data stewardship activities.
+- Enable and empower members of the group to write grants that highlight the capacity for data stewardship at GHE and use experiences as a competitive advantage.
+
+## Education and training, as well as professional experience
+
+Expected 10+ years of work experience in diverse sectors, including academia, private industry, government, and multilateral organizations, such as the United Nations, World Bank, and others. Experience working with scientists in engineering, social sciences, and health sciences. Knowledge of the intricacies of international cooperation and work in resource-constrained settings. Certified instructor through programmes such as Software Carpentry, Data Carpentry, and Library Carpentry. High degree of knowledge in the field of data stewardship & data science. An advanced understanding of the ETH Domain, its structure, processes and the role of different actors. Fluent in English and German with excellent communication and writing skills.
+
+## Social and methodological competencies
+
+For this position, a balanced combination of all six competency areas is expected. Not only does this position require these competencies, but it also requires being able to foster them in others and support their development in the team. By doing this, the position contributes to the development of a culture of trust, respect, and collaboration.
+
+## Technical knowledge and experience
+
+1. Expert: Experience in use of data science tools and programming languages (R, Python, SQL, Git, GitHub)
+2. Advanced: Experience in use of data management tools
+3. Advanced: Experience in designing and managing projects
+4. Expert: Knowledge and experience of using a wide range of project management, task management, and communication tools
+5. Good: Knowledge and experience using AI tools ethically and responsibly to support research activities.
